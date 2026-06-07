@@ -13,7 +13,8 @@ Durante a varredura estática, o código se mostrou deficiente em diversos aspec
 ## 3. Grafo de Fluxo
 A representação das decisões do método refatorado encontra-se modelada abaixo. 
 
-*(Arraste a imagem gerada pelo PlantUML aqui para o GitHub)*
+<img width="1184" height="768" alt="DIAGRAMAGRAFO drawio" src="https://github.com/user-attachments/assets/35b7af48-de3a-49a1-847c-89b7b527bece" />
+
 
 ## 4. Complexidade Ciclomática
 Para assegurar a cobertura de todos os cenários nos testes estruturais, a complexidade foi calculada baseando-se no grafo acima:
